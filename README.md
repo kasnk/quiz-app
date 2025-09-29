@@ -93,7 +93,7 @@ We welcome contributions to improve Quizers! Here's how you can contribute:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
->  Remember to create a LICENSE file in your repository.
+
 
 ## Troubleshooting
 
